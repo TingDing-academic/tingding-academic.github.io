@@ -27,9 +27,9 @@ author:
   location         : "Wuhan, China"
   employer         : "Wuhan University"
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
+  googlescholar    : 
   email            : "dingting@whu.edu.cn"
-  researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Ting-Ding-7"
   uri              :
   bitbucket        :
   codepen          :
