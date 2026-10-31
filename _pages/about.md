@@ -51,12 +51,34 @@ I am a PhD candidate in Electrical Engineering at Wuhan University, China,My res
   </div>
 </div>
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">High Voltage Engineering</div>
+      <img
+        src="images/shared energy storage.png"
+        alt="Cooperative operation of shared energy storage systems"
+        width="100%">
+    </div>
+  </div>
+
+  <div class='paper-box-text' markdown="1">
+
+[Asymmetric Nash Bargaining-based Cooperative Operation Strategy for Shared Energy Storage Systems](https://doi.org/10.13336/j.1003-6520.hve.20260199)
+
+**Ting Ding**, Junhua Wang, Tian Yuan, Fan Zhang, Jianwei Shao
+
+*High Voltage Engineering*, Early Access, pp. 1–17. (In Chinese; EI Compendex; CSEE T1)
+
+[**Paper**](https://doi.org/10.13336/j.1003-6520.hve.20260199)
+
+  </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+
+
+
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
