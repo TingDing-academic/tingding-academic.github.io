@@ -20,9 +20,11 @@ redirect_from:
 I am a PhD candidate in Electrical Engineering at Wuhan University, China,My research focuses on energy system optimization, intelligent energy management, and AI-driven decision-making for distributed energy systems.
 
 
+
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+
+- **Jun. 2023** — Received the **Best Paper Award** at the IEEE International Conference on Predictive Control of Electrical Drives and Power Electronics (PRECEDE 2023).
+
 
 # 📝 Publications 
 
@@ -76,6 +78,30 @@ I am a PhD candidate in Electrical Engineering at Wuhan University, China,My res
   </div>
 </div>
 
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">IEEE PRECEDE 2023</div>
+      <img
+        src="images/multitime.png"
+        alt="Multi-time scale energy management for 5G base stations"
+        width="100%">
+    </div>
+  </div>
+
+  <div class='paper-box-text' markdown="1">
+
+[Multi-Time Scale Energy Management Strategy based on MPC for 5G Base Stations Considering Backup Energy Storage and Air Conditioning](https://doi.org/10.1109/PRECEDE57319.2023.10174449)
+
+**Ting Ding**, Junhua Wang, Jose Matas, Josep M. Guerrero, Ruixun Qiao, Chenlu Wang
+
+*2023 IEEE International Conference on Predictive Control of Electrical Drives and Power Electronics (PRECEDE)*, 2023.
+
+[**Paper**](https://doi.org/10.1109/PRECEDE57319.2023.10174449)
+
+  </div>
+</div>
 
 
 
