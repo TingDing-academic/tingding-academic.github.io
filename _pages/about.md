@@ -126,13 +126,17 @@ I am a PhD candidate in Electrical Engineering at Wuhan University, China. My re
 </div>
 
 
-<div style="display: flex; align-items: flex-start; gap: 20px; margin-bottom: 25px;">
+<div class='paper-box'>
 
-  <img src="{{ '/images/UPFC.png' | relative_url }}"
-       alt="MMC-UPFC"
-       style="width: 150px; height: auto; flex-shrink: 0;">
+  <div class='paper-box-image'>
+    <div>
+      <img src="{{ '/images/UPFC.png' | relative_url }}"
+           alt="MMC-UPFC"
+           width="100%">
+    </div>
+  </div>
 
-  <div style="flex: 1;">
+  <div class='paper-box-text'>
     <strong>Model predictive control of MMC-UPFC under unbalanced grid conditions</strong>
     <p style="margin: 8px 0;">
       Q. Yang, T. Ding, H. He, X. Chen, F. Tao,
