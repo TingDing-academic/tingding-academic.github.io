@@ -18,6 +18,12 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
+<div align="center">
+  <img src="/images/Vision.png"
+       alt="Research Vision"
+       style="width: 100%; max-width: 900px; height: auto;">
+</div>
+
 # About Me
 I am a PhD candidate in Electrical Engineering at Wuhan University, China. My research focuses on energy system optimization, intelligent energy management, and AI-driven decision-making for distributed energy systems.
 
