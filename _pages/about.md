@@ -18,12 +18,16 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
-<div align="center">
-  <img src="/images/Vision.png"
+
+
+<div style="width: 100%; margin: 0 0 20px 0;">
+  <img src="{{ '/images/Vision.png' | relative_url }}"
        alt="Research Vision"
-       style="width: 100%; max-width: 900px; height: auto;">
+       style="display: block; width: 100%; height: auto;">
 </div>
 
+
+</div>
 
 
 # About Me
