@@ -17,17 +17,20 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-
-
-
-<div style="width: 100%; margin: 0 0 20px 0;">
+<div style="width: 100%; margin-bottom: 40px;">
   <img src="{{ '/images/Vision.png' | relative_url }}"
        alt="Research Vision"
        style="display: block; width: 100%; height: auto;">
 </div>
 
 
+<div style="width: 100%; margin: 0 0 20px 0;">
+  <img src="{{ '/images/Vision2.png' | relative_url }}"
+       alt="Research Vision"
+       style="display: block; width: 100%; height: auto;">
 </div>
+
+
 
 
 # About Me
