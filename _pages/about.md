@@ -24,10 +24,12 @@ redirect_from:
        style="width: 100%; max-width: 900px; height: auto;">
 </div>
 
+
+
 # About Me
 I am a PhD candidate in Electrical Engineering at Wuhan University, China. My research focuses on energy system optimization, intelligent energy management, and AI-driven decision-making for distributed energy systems.
 
-# 🔬 Research Overview
+# Research Overview
 
 <div style="text-align: center; margin: 25px 0;">
   <img
@@ -37,12 +39,17 @@ I am a PhD candidate in Electrical Engineering at Wuhan University, China. My re
   >
 </div>
 
-# 🔥 News
+# News
 
 - **Jun. 2023** — Received the **Best Paper Award** at the IEEE International Conference on Predictive Control of Electrical Drives and Power Electronics (PRECEDE 2023).
 
+# Educations
+- *2021 - now*, PhD, Wuhan University,  Electrical Engineering
+- *2023 - 2024*, Joint PhD, UniversitatPolitècnicade Catalunya (UPC),  Electrical Engineering
+- *2017 - 2019*, MSc, Huazhong University of Science and Technology,  Electrical Engineering
+- *2012 - 2016*, BSc, Huazhong University of Science and Technology,  Electrical Engineering and Automation
 
-# 📝 Publications 
+# Publications 
 
 
 <div class='paper-box'>
@@ -120,24 +127,3 @@ I am a PhD candidate in Electrical Engineering at Wuhan University, China. My re
 </div>
 
 
-
-
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 📖 Educations
-- *2021 - now*, PhD, Wuhan University,  Electrical Engineering
-- *2023 - 2024*, Joint PhD, UniversitatPolitècnicade Catalunya (UPC),  Electrical Engineering
-- *2017 - 2019*, MSc, Huazhong University of Science and Technology,  Electrical Engineering
-- *2012 - 2016*, BSc, Huazhong University of Science and Technology,  Electrical Engineering and Automation
-
-
-
-
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
