@@ -18,18 +18,10 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 <div style="width: 100%; margin-bottom: 40px;">
-  <img src="{{ '/images/Vision.png' | relative_url }}"
-       alt="Research Vision"
-       style="display: block; width: 100%; height: auto;">
-</div>
-
-
-<div style="width: 100%; margin: 0 0 20px 0;">
   <img src="{{ '/images/Vision2.png' | relative_url }}"
        alt="Research Vision"
        style="display: block; width: 100%; height: auto;">
 </div>
-
 
 
 
@@ -131,6 +123,31 @@ I am a PhD candidate in Electrical Engineering at Wuhan University, China. My re
 [**Paper**](https://doi.org/10.1109/PRECEDE57319.2023.10174449)
 
   </div>
+</div>
+
+
+<div style="display: flex; align-items: flex-start; gap: 20px; margin-bottom: 25px;">
+
+  <img src="{{ '/images/UPFC.png' | relative_url }}"
+       alt="MMC-UPFC"
+       style="width: 150px; height: auto; flex-shrink: 0;">
+
+  <div style="flex: 1;">
+    <strong>Model predictive control of MMC-UPFC under unbalanced grid conditions</strong>
+    <p style="margin: 8px 0;">
+      Q. Yang, T. Ding, H. He, X. Chen, F. Tao,
+      Z. Zhou, X. Yang, and S. Chen
+    </p>
+    <p style="margin: 8px 0;">
+      <em>International Journal of Electrical Power &amp; Energy Systems</em>,
+      vol. 117, Art. no. 105637, 2020.
+    </p>
+    <a href="https://doi.org/10.1016/j.ijepes.2019.105637"
+       target="_blank" rel="noopener noreferrer">
+      [Paper]
+    </a>
+  </div>
+
 </div>
 
 
