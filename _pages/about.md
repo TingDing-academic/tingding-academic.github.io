@@ -26,7 +26,7 @@ redirect_from:
 
 
 # About Me
-I am a PhD candidate in Electrical Engineering at Wuhan University, China. My research focuses on energy system optimization, intelligent energy management, and AI-driven decision-making for distributed energy systems.
+I am a PhD candidate in Electrical Engineering at Wuhan University, China. Aiming to improve the **efficiency, flexibility, and coordination** of power systems through **intelligent decision-making**, my research focuses on **demand-side energy management**, including multi-energy coordination, demand response, energy sharing, and peer-to-peer energy trading.
 
 # Research Overview
 
@@ -42,19 +42,18 @@ I am a PhD candidate in Electrical Engineering at Wuhan University, China. My re
 
 - **Jun. 2023** — Received the **Best Paper Award** at the IEEE International Conference on Predictive Control of Electrical Drives and Power Electronics (PRECEDE 2023).
 
-# Educations
-- *2021 - now*, PhD, Wuhan University,  Electrical Engineering
-- *2023 - 2024*, Joint PhD, UniversitatPolitècnicade Catalunya (UPC),  Electrical Engineering
-- *2017 - 2019*, MSc, Huazhong University of Science and Technology,  Electrical Engineering
-- *2012 - 2016*, BSc, Huazhong University of Science and Technology,  Electrical Engineering and Automation
+# Education
+- 2021 - now, Ph.D., Wuhan University,  Electrical Engineering
+- 2023 - 2024, Joint Ph.D., UniversitatPolitècnicade Catalunya (UPC),  Electrical Engineering
+- 2017 - 2019, M.Sc., Huazhong University of Science and Technology,  Electrical Engineering
+- 2012 - 2016, B.Sc., Huazhong University of Science and Technology,  Electrical Engineering and Automation
 
-# Publications 
+# Publications
 
 
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <div class="badge">Renewable Energy 2026</div>
       <img
         src="images/multi-energy-system.png"
         alt="Schematic of the multi-energy system"
@@ -79,7 +78,6 @@ I am a PhD candidate in Electrical Engineering at Wuhan University, China. My re
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <div class="badge">High Voltage Engineering</div>
       <img
         src="images/shared energy storage.png"
         alt="Cooperative operation of shared energy storage systems"
@@ -104,7 +102,6 @@ I am a PhD candidate in Electrical Engineering at Wuhan University, China. My re
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <div class="badge">IEEE PRECEDE 2023</div>
       <img
         src="images/multitime.png"
         alt="Multi-time scale energy management for 5G base stations"
@@ -139,8 +136,8 @@ I am a PhD candidate in Electrical Engineering at Wuhan University, China. My re
   <div class='paper-box-text'>
     <strong>Model predictive control of MMC-UPFC under unbalanced grid conditions</strong>
     <p style="margin: 8px 0;">
-      Q. Yang, T. Ding, H. He, X. Chen, F. Tao,
-      Z. Zhou, X. Yang, and S. Chen
+      Qiufan Yang, <strong>Ting Ding</strong>, Hengxin He, Xia Chen, Fengbo Tao,
+      Zhicheng Zhou, Yang Xu, and Shu Chen
     </p>
     <p style="margin: 8px 0;">
       <em>International Journal of Electrical Power &amp; Energy Systems</em>,

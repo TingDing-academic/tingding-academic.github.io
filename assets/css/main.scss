@@ -76,16 +76,16 @@
     @include breakpoint($medium) {
         .paper-box-image{
             justify-content: left;
-            min-width: 200px;
-            width: 40%;
-            max-width: 40%;
+            min-width: 0;
+            width: 30%;
+            max-width: 30%;
             order: 1;
         }
         
         .paper-box-text{
             justify-content: left;
             padding-left: 2em;
-            max-width: 60%;
+            max-width: 70%;
             order: 2;
         }
 
@@ -113,6 +113,30 @@ h1:before, .anchor:before {
     color: white;
     background-color: #00369f;
     font-size: .8em;
+}
+
+.page__content {
+    font-family: "Latin Modern Roman", "LM Roman 10", "Times New Roman", serif;
+    font-size: 17px;
+    line-height: 1.7;
+}
+
+.page__content #education + ul,
+.page__content #education + ul li,
+.page__content #education + ul em {
+    font-family: "Latin Modern Roman", "LM Roman 10", "Times New Roman", serif;
+}
+
+.page__content h1#about-me + p strong {
+    color: #007AC2;
+}
+
+.sidebar .profile_box,
+.sidebar .profile_box .author__name,
+.sidebar .profile_box .author__bio,
+.sidebar .profile_box .author__urls-wrapper,
+.sidebar .profile_box li {
+    font-family: "Latin Modern Roman", "LM Roman 10", "Times New Roman", serif;
 }
 
 /* =========================================

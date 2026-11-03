@@ -10,13 +10,22 @@ source "https://rubygems.org"
 # Happy Jekylling!
 
 gem "github-pages", group: :jekyll_plugins
+gem "liquid", ">= 4.0.4", "< 5"
+
+# Jekyll 3 requires logger, which Ruby 4 no longer includes by default.
+gem "logger"
+gem "csv"
+gem "base64"
+gem "bigdecimal"
+gem "webrick"
+gem "tzinfo-data" if Gem.win_platform?
 
 # If you want to use Jekyll native, uncomment the line below.
 # To upgrade, run `bundle update`.
 
 # gem "jekyll"
 
-gem "wdm", "~> 0.1.0" if Gem.win_platform?
+# Use Jekyll's --force_polling option on Windows instead of the wdm extension.
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do
