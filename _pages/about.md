@@ -40,7 +40,9 @@ I am a PhD candidate in Electrical Engineering at Wuhan University, China. Aimin
 
 # News
 
-- **Jun. 2023** — Received the **Best Paper Award** at the IEEE International Conference on Predictive Control of Electrical Drives and Power Electronics (PRECEDE 2023).
+- **Feb. 2026** - Our paper “<a class="news-paper-link" href="https://doi.org/10.1016/j.renene.2026.125485">Optimal configuration and operation of multi-energy commercial buildings considering source-load uncertainties and battery degradation in different climatic conditions</a>” has been accepted for publication in **Renewable Energy**.
+
+- **Jun. 2023** - Received the <strong class="news-award">Best Paper Award</strong> at the IEEE International Conference on Predictive Control of Electrical Drives and Power Electronics (PRECEDE 2023).
 
 # Education
 - 2021 - now, Ph.D., Wuhan University,  Electrical Engineering
@@ -91,7 +93,7 @@ I am a PhD candidate in Electrical Engineering at Wuhan University, China. Aimin
 
 **Ting Ding**, Junhua Wang, Tian Yuan, Fan Zhang, Jianwei Shao
 
-*High Voltage Engineering*, Early Access, pp. 1–17. (In Chinese; EI Compendex; CSEE T1)
+*High Voltage Engineering*, Early Access, pp. 1-17. (In Chinese; EI Compendex; CSEE T1)
 
 [**Paper**](https://doi.org/10.13336/j.1003-6520.hve.20260199)
 
@@ -145,7 +147,7 @@ I am a PhD candidate in Electrical Engineering at Wuhan University, China. Aimin
     </p>
     <a href="https://doi.org/10.1016/j.ijepes.2019.105637"
        target="_blank" rel="noopener noreferrer">
-      [Paper]
+      <strong>Paper</strong>
     </a>
   </div>
 

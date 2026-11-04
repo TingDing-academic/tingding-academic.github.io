@@ -126,6 +126,14 @@ h1:before, .anchor:before {
     line-height: 1.7;
 }
 
+.page__content p {
+    text-align: justify;
+}
+
+.research-section-gap {
+    height: 1.7em;
+}
+
 .page__content #education + ul,
 .page__content #education + ul li,
 .page__content #education + ul em {
@@ -133,6 +141,22 @@ h1:before, .anchor:before {
 }
 
 .page__content h1#about-me + p strong {
+    color: #007AC2;
+}
+
+.page__content .news-paper-link {
+    color: #007AC2;
+    text-decoration: none;
+
+    &:hover,
+    &:focus,
+    &:visited {
+        color: #007AC2;
+        text-decoration: none;
+    }
+}
+
+.page__content .news-award {
     color: #007AC2;
 }
 
