@@ -1,0 +1,42 @@
+<style>
+  #site-loading { position: fixed; inset: 0; z-index: 1000; background: #f4efe6; display: none; flex-direction: column; align-items: center; justify-content: center; gap: 16px; padding: 16px; }
+  #site-loading iframe { border: 0; width: min(640px, 90vw, 70vh); height: min(680px, 95vw, 75vh); }
+  #site-loading p { margin: 0; color: #4b5b8f; font-family: "Latin Modern Roman", serif; }
+  #site-loading button { padding: 8px 18px; background: transparent; border: 1px solid #4b5b8f; border-radius: 4px; color: #4b5b8f; cursor: pointer; font: inherit; }
+</style>
+<div id="site-loading" aria-label="Loading homepage">
+  <iframe title="Watercolor willow loading animation" data-src="{{ '/assets/loading/willow.html' | relative_url }}" sandbox="allow-scripts" aria-hidden="true" tabindex="-1"></iframe>
+  <p role="status">Loading...</p>
+  <button type="button">Enter homepage</button>
+</div>
+<script>
+(function () {
+  var overlay = document.getElementById('site-loading');
+  if (window.matchMedia('(prefers-reduced-motion: reduce)').matches) return;
+  var started = Date.now();
+  var closed = false;
+  function close() {
+    if (closed) return;
+    closed = true;
+    overlay.remove();
+  }
+  // Always release the page, even if animation libraries or images fail.
+  var timeout = setTimeout(close, 6000);
+  overlay.querySelector('button').addEventListener('click', close);
+  overlay.style.display = 'flex';
+  var frame = overlay.querySelector('iframe');
+  frame.src = frame.getAttribute('data-src');
+  document.addEventListener('DOMContentLoaded', function () {
+    var images = Array.prototype.map.call(document.querySelectorAll('#main img'), function (img) {
+      if (img.complete) return Promise.resolve();
+      return new Promise(function (resolve) {
+        img.addEventListener('load', resolve, { once: true });
+        img.addEventListener('error', resolve, { once: true });
+      });
+    });
+    Promise.all(images).then(function () {
+      setTimeout(function () { clearTimeout(timeout); close(); }, Math.max(0, 1600 - (Date.now() - started)));
+    });
+  });
+}());
+</script>
