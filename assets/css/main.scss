@@ -144,6 +144,31 @@ h1:before, .anchor:before {
     color: #007AC2;
 }
 
+.page__content .news-list {
+    max-height: 18rem;
+    overflow-y: auto;
+    margin-left: 0;
+    padding: 0.75rem 1rem 0.75rem 2rem;
+    border: 1px solid #ddd;
+    border-radius: 0.5rem;
+    list-style: none;
+
+    > li {
+        position: relative;
+        padding-left: 0.5rem;
+
+        &::before {
+            content: "";
+            position: absolute;
+            left: -1.5rem;
+            top: 0.15em;
+            width: 22px;
+            height: 22px;
+            background: url("../../images/icons8-party-popper-96.png") center / contain no-repeat;
+        }
+    }
+}
+
 .page__content .news-paper-link {
     color: #007AC2;
     text-decoration: none;

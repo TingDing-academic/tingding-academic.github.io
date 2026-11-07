@@ -40,9 +40,12 @@ I am a PhD candidate in Electrical Engineering at Wuhan University, China. Aimin
 
 # News
 
+- **Jun. 2026** - Our paper “<a class="news-paper-link" href="https://doi.org/10.13336/j.1003-6520.hve.20260199">Asymmetric Nash Bargaining-based Cooperative Operation Strategy for Shared Energy Storage Systems</a>” was published online ahead of print in **High Voltage Engineering**.
+
 - **Feb. 2026** - Our paper “<a class="news-paper-link" href="https://doi.org/10.1016/j.renene.2026.125485">Optimal configuration and operation of multi-energy commercial buildings considering source-load uncertainties and battery degradation in different climatic conditions</a>” has been accepted for publication in **Renewable Energy**.
 
 - **Jun. 2023** - Received the <strong class="news-award">Best Paper Award</strong> at the IEEE International Conference on Predictive Control of Electrical Drives and Power Electronics (PRECEDE 2023).
+{: .news-list tabindex="0" aria-labelledby="news"}
 
 # Education
 - 2021 - now, Ph.D., Wuhan University,  Electrical Engineering
